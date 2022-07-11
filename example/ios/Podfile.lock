@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - jitsimeetplugin (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - jitsimeetplugin (from `.symlinks/plugins/jitsimeetplugin/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  jitsimeetplugin:
+    :path: ".symlinks/plugins/jitsimeetplugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  jitsimeetplugin: 1ee7b67e356027c02b008f4775b44c8029cdc47d
+
+PODFILE CHECKSUM: 4fb9624dc46910499f9554056763109cb1595876
+
+COCOAPODS: 1.11.2
